@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-@st.cache
+@st.cache_resource
 def load_data():
     # Replace with your data loading logic
     return pd.read_csv(r'C:\Users\user\Desktop\Github\Dahboard_Development\app\iris.csv')
