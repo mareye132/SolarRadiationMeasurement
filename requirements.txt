@@ -1,0 +1,7 @@
+pandas=1.5.3       # for data manipulation and analysis
+numpy=1.24.2       # for numerical computations
+matplotlib=3.7.1   # for creating static visualization
+seaborn=0.12.2     # for statical data visualization
+scipy=1.11.1       # for advanced stastical fuctions like z-score
+plotly=5.10.0      # for interactive visualization
+statsmodels=0.14.0 # for stastical modeling and time analysis
